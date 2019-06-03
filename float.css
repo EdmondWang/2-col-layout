@@ -1,0 +1,9 @@
+#side {
+    float: left;
+    width: 200px;
+}
+
+#main {
+    width: calc(100% - 200px);
+    margin-left: 200px;
+}
